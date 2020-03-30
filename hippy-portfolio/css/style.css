@@ -1,0 +1,82 @@
+
+Style Hints:
+
+body {
+  font-size: 14px;
+  font-family: "Times New Roman", serif;
+  color: black;
+  background-image: url("/Users/nausheen/assignments/morexer4_css/hippy-portfolio//images/pattern1.png");
+  background-color: #F3EBE9;
+  background-size: cover;
+}
+.container {
+  width: 70%;
+  margin: 0 auto;
+  background-color: #F3EBE9;
+}
+
+
+	header{
+		background-color: #f0776e;
+	}
+
+h1{
+	font-size: 50px;
+  font-family: "Times New Roman", sans-serif;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: #f0776e;
+  padding: 0;
+  margin: 0;
+ }
+ .up-text{
+ 	font-family: 'Apple Chancery';
+ 	background-color: #f0776e;
+ 	padding: 0;
+ 	margin: 0;
+ }
+.head-img{
+	width: 100%
+}
+h2{
+	font-size: 18px;
+	text-transform: uppercase;
+	font-family: cursive, Helvetica, sans-serif;
+}
+
+.title{
+	font-family: 'Apple Chancery';
+	text-decoration: underline;
+}
+.image{
+	font-family: 'Apple Chancery';
+	text-decoration: underline;
+}
+.images{
+	position: relative;
+}
+#img1{
+	border: solid grey 5px;
+	padding: 2px;
+}
+#img2{
+	border: solid grey 5px;
+	padding: 2px;
+}
+#img3{
+	border: solid grey 5px;
+	padding: 2px;
+}
+#img4{
+	border: solid grey 5px;
+	padding: 2px;
+}
+.foot{
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+	background-color: #f0776e;
+	text-align: right;
+	height: 60px;
+
+}
